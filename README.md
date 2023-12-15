@@ -106,9 +106,9 @@ else:
 
 ```
 ## Sample Input and Output
-![image]()
-![image]()
-![image]()
+![image](https://raw.githubusercontent.com/Krishanthb/Search-Algorithm/main/3b1.png)
+![image](https://raw.githubusercontent.com/Krishanthb/Search-Algorithm/main/3b2.png)
+![image](https://raw.githubusercontent.com/Krishanthb/Search-Algorithm/main/3b3.png)
 
 
 ## Result
